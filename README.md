@@ -5,10 +5,10 @@ An interactive iOS word game that challenges players to test their vocabulary &a
 - ** Check your vocabulary by guessing the word within 6 attempts where with each attempt you will get to know the letters placed correctly highlighted in green and letters placed incorrectly highlighted in yellow.
 - 
 ## Work In progress Features
-- ** Integrate API to get a random word each time from a dictionary
+- Integrate API to get a random word each time from a dictionary
 -     Refer API: https://random-word-api.herokuapp.com/home
-- ** Integrate API to check whether the word the user has typed is valid or not
--  Refer API: https://www.wordsapi.com/
+- Integrate API to check whether the word the user has typed is valid or not
+-     Refer API: https://www.wordsapi.com/
  
 ## Requirments
 - iOS 14.0+
